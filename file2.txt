@@ -1,1 +1,1 @@
-file2
+making changes to file2 to cause a merge conflict
